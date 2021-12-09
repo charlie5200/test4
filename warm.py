@@ -1,4 +1,4 @@
-import stream as st
+import streamlit as st
 st.write('我們是第四組:先不要')
 car_simulation = {'gas_warning':1, 'speed_limit':100, 'temp_warning':30, '轉速':12000}
 gas = st.write_input('油量的資料收集:油箱滿是10格 =>')
