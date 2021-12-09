@@ -1,4 +1,3 @@
-
 import stream as st
 st.write('我們是第四組:先不要')
 car_simulation = {'gas_warning':1, 'speed_limit':100, 'temp_warning':30, '轉速':12000}
